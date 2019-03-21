@@ -14,4 +14,9 @@ public class Beneficiari {
 		this.nom = nom;
 	}
 
+	public List<Assegurances> obtenirAssegurança() {
+		// TODO - implement Beneficiari.obtenirAssegurança
+		throw new UnsupportedOperationException();
+	}
+
 }

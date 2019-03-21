@@ -40,4 +40,9 @@ public class Client {
 		this.DNI = DNI;
 	}
 
+	public ArrayList<Client> obtenirClients() {
+		// TODO - implement Client.obtenirClients
+		throw new UnsupportedOperationException();
+	}
+
 }

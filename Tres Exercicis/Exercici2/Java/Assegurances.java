@@ -13,4 +13,9 @@ public class Assegurances {
 		this.número = número;
 	}
 
+	public void crearAssegurança() {
+		// TODO - implement Assegurances.crearAssegurança
+		throw new UnsupportedOperationException();
+	}
+
 }

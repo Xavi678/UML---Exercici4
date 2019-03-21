@@ -40,4 +40,9 @@ public class Agent {
 		this.telèfon = telèfon;
 	}
 
+	public void afegirAgent() {
+		// TODO - implement Agent.afegirAgent
+		throw new UnsupportedOperationException();
+	}
+
 }
